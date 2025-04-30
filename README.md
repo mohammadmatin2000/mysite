@@ -1,26 +1,34 @@
 #
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/29748439/130503888-ee2103cc-267f-4cfc-9ae7-b9da19f41a86.png">
   <h1 align="center">
-    Django Tutorial Project
+    Django Project Mysite
   </h1>
-<p align="center">The full project for Django fundemental course in maktabkhooneh.org.</p>
+  <p align="center">Django Project</p>
 </p>
 
-<div align="center">
-<a href="https://open.vscode.dev/alibigdeli/mysite.git"><img src="https://open.vscode.dev/badges/open-in-vscode.svg" height="25px"></a>
+## Demo
+![Screenshot 2025-04-30 211456](https://github.com/user-attachments/assets/fd525be0-bb71-4838-a21d-8c20fd8e4e2f)
+<hr>
 
-</div>
+![Screenshot 2025-04-30 211550](https://github.com/user-attachments/assets/e1bdd7d0-9841-49de-9926-991d83ed48de)
+
+<hr>
+![Screenshot 2025-04-30 211615](https://github.com/user-attachments/assets/f77abeb7-3867-4aba-9561-54c050f05b51)
+
+![Screenshot 2025-04-30 211604](https://github.com/user-attachments/assets/eaf8a023-d544-491f-8187-d27575f9698d)
+
+<hr>
+
 
 ## Download & Setup Instructions :
 
-After downloading the project, make sure to create a virtual enviroment and  install [project's requirements.](https://github.com/alibigdeli/mysite/requirements.txt)
+After downloading the project, make sure to create a virtual enviroment and  install [project's requirements.](https://github.com/mohammadmatin2000/mysite.git)
 
 Clone the project. This will download the GitHub respository files onto your local machine.
 
 ```Shell
-git clone https://github.com/alibigdeli/mysite.git
+https://github.com/mohammadmatin2000/mysite.git
 ```
 installing virtual enviroment and activating:
 ```Shell
